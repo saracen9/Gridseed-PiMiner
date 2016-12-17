@@ -28,5 +28,5 @@
     "api-port": "4028",
     "kernel-path": "/usr/local/bin",
     "load-balance": true,
-    "failover-only": true,
+    "failover-only": true
 }
